@@ -8,9 +8,7 @@ Deskripsi:
   kecepatan berhitung mental, refleks navigasi kinetik, dan logika pola aljabar.
 
 Cara Menjalankan:
-  1. Cukup double-click file:
-       run.bat
-  2. Atau jalankan lewat terminal / PowerShell:
+1. Atau jalankan lewat terminal / PowerShell:
        python main.py
 
 ========================================================================
